@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "MS-vsliveshare.vsliveshare",
+    "MS-vsliveshare.vsliveshare-audio",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}

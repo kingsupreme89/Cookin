@@ -1,0 +1,14 @@
+{
+  "name": "cookin",
+  "version": "1.0.0",
+  "description": "Cookin Monorepo Workspace",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "echo 'Run start script from specific workspace'",
+    "dev": "echo 'Run dev script from specific workspace'"
+  }
+}
