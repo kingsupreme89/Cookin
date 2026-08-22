@@ -3,6 +3,8 @@
     "MS-vsliveshare.vsliveshare",
     "MS-vsliveshare.vsliveshare-audio",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "saoudrizwan.claude-dev",
+    "Google.geminicodeassist"
   ]
 }
